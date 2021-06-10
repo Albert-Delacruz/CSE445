@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5d4cf941-f07f-4bbb-8eef-f04e061a0b50" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57685/Service1.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="eb6e6c0c-e912-4597-bcea-1b7fef2930e9" SourceId="1" SourceUrl="http://localhost:57685/Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="509f4a46-d9e4-4e10-9d9f-5b01365d87af" SourceId="1" SourceUrl="http://localhost:57685/Service1.svc?wsdl" />
+    <MetadataFile FileName="Service11.xsd" MetadataType="Schema" ID="3eb4c770-583d-4e3d-a247-08b11aa2a1f5" SourceId="1" SourceUrl="http://localhost:57685/Service1.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

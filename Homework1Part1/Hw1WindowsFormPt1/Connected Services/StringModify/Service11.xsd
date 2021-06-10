@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="vowelCount">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="vowel" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vowelCountResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="vowelCountResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="capitalCount">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="capital" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="capitalCountResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="capitalCountResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reverseString">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="input" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reverseStringResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="reverseStringResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

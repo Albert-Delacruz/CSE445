@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aqwxc\OneDrive\Documents\AME220\Github HTML\Hw1pt11</_PublishTargetUrl>
+    <History>True|2021-06-09T18:46:31.5480027Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Homework1Part1.dll">
+      <publishTime>06/09/2021 11:46:31</publishTime>
+    </File>
+    <File Include="bin/Homework1Part1.pdb">
+      <publishTime>06/09/2021 11:46:31</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>01/27/2021 13:40:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/09/2021 11:46:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

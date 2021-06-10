@@ -1,0 +1,7 @@
+C:\Users\aqwxc\source\repos\Homework1Part1\bin\Homework1Part1.dll.config
+C:\Users\aqwxc\source\repos\Homework1Part1\bin\Homework1Part1.dll
+C:\Users\aqwxc\source\repos\Homework1Part1\bin\Homework1Part1.pdb
+C:\Users\aqwxc\source\repos\Homework1Part1\obj\Release\Homework1Part1.csproj.CoreCompileInputs.cache
+C:\Users\aqwxc\source\repos\Homework1Part1\obj\Release\Homework1Part1.dll
+C:\Users\aqwxc\source\repos\Homework1Part1\obj\Release\Homework1Part1.pdb
+C:\Users\aqwxc\source\repos\Homework1Part1\obj\Release\Homework1Part1.csproj.AssemblyReference.cache
