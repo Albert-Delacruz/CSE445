@@ -1,0 +1,9 @@
+C:\Users\aqwxc\source\repos\Homwork1Pt2\bin\Debug\Homwork1Pt2.exe.config
+C:\Users\aqwxc\source\repos\Homwork1Pt2\bin\Debug\Homwork1Pt2.exe
+C:\Users\aqwxc\source\repos\Homwork1Pt2\bin\Debug\Homwork1Pt2.pdb
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.Form1.resources
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.Properties.Resources.resources
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.csproj.GenerateResource.cache
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.csproj.CoreCompileInputs.cache
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.exe
+C:\Users\aqwxc\source\repos\Homwork1Pt2\obj\Debug\Homwork1Pt2.pdb
