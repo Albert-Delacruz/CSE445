@@ -1,0 +1,7 @@
+C:\Users\aqwxc\source\repos\HW2Travel\bin\Debug\HW2Travel.exe.config
+C:\Users\aqwxc\source\repos\HW2Travel\bin\Debug\HW2Travel.exe
+C:\Users\aqwxc\source\repos\HW2Travel\bin\Debug\HW2Travel.pdb
+C:\Users\aqwxc\source\repos\HW2Travel\obj\Debug\HW2Travel.csproj.CoreCompileInputs.cache
+C:\Users\aqwxc\source\repos\HW2Travel\obj\Debug\HW2Travel.exe
+C:\Users\aqwxc\source\repos\HW2Travel\obj\Debug\HW2Travel.pdb
+C:\Users\aqwxc\source\repos\HW2Travel\obj\Debug\HW2Travel.csprojAssemblyReference.cache
