@@ -1,0 +1,10 @@
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\bin\Homework3Pt3Service1.dll.config
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\bin\Homework3Pt3Service1.dll
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\bin\Homework3Pt3Service1.pdb
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\obj\Debug\Homework3Pt3Service1.csprojAssemblyReference.cache
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\obj\Debug\Homework3Pt3Service1.csproj.CoreCompileInputs.cache
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\obj\Debug\Homework3Pt3Service1.dll
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\obj\Debug\Homework3Pt3Service1.pdb
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\bin\Newtonsoft.Json.dll
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\bin\Newtonsoft.Json.xml
+C:\Users\aqwxc\source\repos\Homework3Pt3Service1\obj\Debug\Homework3Pt3Service1.csproj.CopyComplete
