@@ -1,0 +1,78 @@
+<Restaurants>
+	<Restaurant Delivery = "N">
+		<Name>
+			Henhouse Cafe
+		</Name>
+		<Contact>
+			<Phone>
+				(555) 219-7373
+			</Phone>
+			<Email>
+			</Email>
+		</Contact>
+		<Website facebook = "https://www.facebook.com/TheHenhouseCafe/">
+			https://www.henhouse-cafe.com
+		</Website>
+	</Restaurant>
+	<Restaurant Delivery = "Y">
+		<Name>
+			Salerno Pizza
+		</Name>
+		<Contact>
+			<Phone>
+				(555) 892-0041
+			</Phone>
+			<Email>
+				SalernosPizza@something.com
+			</Email>
+		</Contact>
+		<Website facebook = "https://www.facebook.com">
+			http://google.com/
+		</Website>
+	</Restaurant>
+	<Restaurant Delivery = "Y">
+		<Name>
+			Gecko Grill
+		</Name>
+		<Contact>
+			<Phone>
+				(555) 539-2988
+			</Phone>
+			<Email>
+			</Email>
+		</Contact>
+		<Website facebook = "https://www.facebook.com">
+			https://www.google.com/
+		</Website>
+	</Restaurant>
+	<Restaurant Delivery = "Y">
+		<Name>
+			Sushi
+		</Name>
+		<Contact>
+			<Phone>
+				(555) 559-7567
+			</Phone>
+			<Email>
+			</Email>
+		</Contact>
+		<Website>
+			https://www.google.com/
+		</Website>
+	</Restaurant>
+	<Restaurant Delivery = "Y">
+		<Name>
+			Rudy's "Country Store" and Bar-B-Q
+		</Name>
+		<Contact>
+			<Phone>
+				(555) 232-3506
+			</Phone>
+			<Email>
+			</Email>
+		</Contact>
+		<Website facebook = "https://www.facebook.com/rudysbbq">
+			https://rudysbbq.com/
+		</Website>
+	</Restaurant>
+</Restaurants>
